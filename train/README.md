@@ -1,3 +1,4 @@
 # Train
 
-Entrenamiento del modelo.
+Entrenamiento del modelo. Modelos probados:
+- XGBOOST
